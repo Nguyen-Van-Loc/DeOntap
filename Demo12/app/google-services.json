@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "184732412729",
+    "firebase_url": "https://lab6-1ec6a-default-rtdb.firebaseio.com",
+    "project_id": "lab6-1ec6a",
+    "storage_bucket": "lab6-1ec6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184732412729:android:e9295bfa8164e4d4a256e8",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184732412729-hlld066v13t10ud3i5o721e6589c194m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65s5sVRdsFbD4oHw_HMpBXeW9HE9as9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184732412729-hlld066v13t10ud3i5o721e6589c194m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184732412729:android:a54556ed6cd2803da256e8",
+        "android_client_info": {
+          "package_name": "com.example.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184732412729-hlld066v13t10ud3i5o721e6589c194m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65s5sVRdsFbD4oHw_HMpBXeW9HE9as9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184732412729-hlld066v13t10ud3i5o721e6589c194m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184732412729:android:07fbbede5c39f285a256e8",
+        "android_client_info": {
+          "package_name": "com.example.lab6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184732412729-hlld066v13t10ud3i5o721e6589c194m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65s5sVRdsFbD4oHw_HMpBXeW9HE9as9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184732412729-hlld066v13t10ud3i5o721e6589c194m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
